@@ -50,6 +50,7 @@ namespace ConfigEditor {
                     Pass = "admin"}
                 };
             }
+        Console.WriteLine("Building...";
 
             if (config.Projects == null) {
                 string path = System.Environment.CurrentDirectory;
